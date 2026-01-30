@@ -1,41 +1,49 @@
-# PROGRAMACION-ORIENTADA-A-OBJETOS
-Este repositorio contiene el código fuente desarrollado durante la asignatura **Programación Orientada a Objetos**, impartida en la **Universidad Estatal Amazónica**. Está diseñado como un recurso de apoyo para estudiantes y profesionales interesados en conceptos y prácticas de programación orientada a objetos.
+# Dashboard – Programación Orientada a Objetos
 
-## Información de la asignatura
+## 📌 Descripción
+Este repositorio corresponde a un **fork personal** del repositorio original de la asignatura  
+**Programación Orientada a Objetos**, impartida en la **Universidad Estatal Amazónica**.
 
-- **Institución**: Universidad Estatal Amazónica (UEA)  
-- **Carrera**: Ingeniería en Tecnologías de la Información  
-- **Asignatura**: Programación Orientada a Objetos  
+El proyecto ha sido **personalizado por la estudiante** como parte de las actividades académicas del curso.
 
-## Contenido del repositorio
+Incluye un **dashboard interactivo en Python** que permite navegar por las unidades, visualizar scripts y ejecutarlos desde un menú.
 
-Este repositorio incluye:
-1. Ejercicios prácticos de programación orientada a objetos.
-2. Ejemplos de implementación en Python.
-3. Proyectos desarrollados como parte de las actividades de la asignatura.
-4. Documentación y apuntes adicionales para reforzar el aprendizaje.
+---
 
-## Objetivos
+##  Información de la estudiante
+- **Nombre:** Mercy Katherine Amaya  
+- **Carrera:** Ingeniería en Tecnologías de la Información  
+- **Asignatura:** Programación Orientada a Objetos  
+- **Universidad:** Universidad Estatal Amazónica (UEA)  
+- **Repositorio original:** snogales-uea/2525-PROGRAMACION-ORIENTADA-A-OBJETOS  
+- **Tipo:** Fork personalizado
 
-- Aplicar los principios fundamentales de la programación orientada a objetos.
-- Desarrollar soluciones eficientes y estructuradas utilizando Python.
-- Familiarizarse con conceptos como clases, objetos, herencia, polimorfismo y encapsulamiento.
+---
 
-## Instrucciones para el uso
+## 🧠 Contenido del repositorio
+- 📂 **UNIDAD 1** – Ejercicios y ejemplos de POO
+- 📂 **UNIDAD 2** – Ejercicios y ejemplos de POO
+- 🧩 **Dashboard.py** – Panel interactivo personalizado
+- 📄 **README.md** – Documentación del proyecto
 
-1. Clona el repositorio:  
-   ```bash
-   git clone https://github.com/snogales-uea/2525-PROGRAMACION-ORIENTADA-A-OBJETOS.git
-   cd 2525-PROGRAMACION-ORIENTADA-A-OBJETOS 
+---
 
-2. Crear un nuevo repositorio en tu cuenta de GitHub Ve a GitHub: https://github.com/new
+## ⚙️ Tecnologías utilizadas
+- Python 3
+- Programación Orientada a Objetos
+- Git
+- GitHub
 
-3. Cambiar el repositorio remoto del proyecto clonado
-   ```bash
-   git remote remove origin
-   git remote add origin https://github.com/tu-usuario/proyecto-clonado.git
+---
 
-4. Subir el proyecto a tu repositorio personal
-   ```bash
-   git push -u origin main
+## ✨ Personalización realizada
+- Se añadió el nombre de la estudiante al dashboard
+- Se personalizó el menú principal
+- Se agregó visualización y ejecución de scripts
+- Se adaptó la documentación del proyecto (README)
+
+---
+
+## Año
+2026
 
